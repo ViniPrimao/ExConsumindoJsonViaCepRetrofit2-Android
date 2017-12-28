@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExConsumindoJsonViaCepRetrofit2</string>
+    <string name="ma_et_cep">Cep</string>
+    <string name="ma_et_btn">Enviar</string>
+</resources>
